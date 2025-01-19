@@ -7,3 +7,4 @@ About SWOT (Strengths, Weaknesses, Opportunities, and Threats) Analysis of a bus
 - Sample Examples with SWOT template and action plan
   - [SWOT analysis of SSE/Frontend developer role](./swot-analysis/sseRole-swot.md)
   - [SWOT analysis of Stock market professional trader, investor](./swot-analysis/proTrader.md)
+- [Weakness for Newbies in Stock market trader/investor](./swot-analysis/weaknessForNewbies.md)
